@@ -10,8 +10,8 @@ So we have built a topology consists of 4 routers which contains their own netwo
 
 **Team Elation**
 **Members:**
-*1. Ali Khatami (Leader)*
-*2. Md. Rafidul Islam*
-*3. Md. Hasanur Rohoman Khan*
-*4. Md. Rokib Khan*
-*5. Md. Arafatul Islam*
+1. *Ali Khatami (Leader)*
+2. *Md. Rafidul Islam*
+3. *Md. Hasanur Rohoman Khan*
+4. *Md. Rokib Khan*
+5. *Md. Arafatul Islam*
