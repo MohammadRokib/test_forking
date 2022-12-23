@@ -27,3 +27,8 @@ Still editing....
 3. Md. Hasanur Rohoman Khan
 4. Md. Rokib Khan
 5. Md. Arafatul Islam
+
+
+-[] Installing GNS3
+-[] Installing GNS3 VM
+-[] Installing VMware Workstation Player
