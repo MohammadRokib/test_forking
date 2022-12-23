@@ -29,6 +29,7 @@ Still editing....
 5. Md. Arafatul Islam
 
 
--[] Installing GNS3
--[] Installing GNS3 VM
--[] Installing VMware Workstation Player
+- [] Installing GNS3
+- [] Installing GNS3 VM
+- [] Installing VMware Workstation Player
+- [x] Write a blog
