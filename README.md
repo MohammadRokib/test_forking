@@ -33,4 +33,4 @@ Still editing....
 - [] Installing GNS3 VM
 - [] Installing VMware Workstation Player
 - [x] Write a blog
-- [] Write a blog
+- [] 
